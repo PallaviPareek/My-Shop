@@ -15,7 +15,7 @@ This project uses a random generated database to fill in the tables. The tables 
 
 ## Features:
 
-### User side- 
+### User side
 - Add products to cart
 - Place an order
 - Request their desired products
