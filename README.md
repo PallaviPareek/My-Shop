@@ -11,10 +11,20 @@ Admin is able to either add a new item to the system, edit it or delete the item
 
 This project uses a random generated database to fill in the tables. The tables are Users, Addresses, Suppliers, Reviews, Orders, Wishlist, Carts, OrderProducts, Ratings and Products.
 
+---
+
 ## Features:
-* User side- Add products to cart, Place an order, Request their desired products
-* Admin side- Manage Inventory, Manage Users
-* Tech Stack: 
+
+### User side- 
+- Add products to cart
+- Place an order
+- Request their desired products
+
+### Admin side
+- Manage Inventory
+- Manage Users
+
+### Tech Stack: 
 
 - HTML
 - CSS
