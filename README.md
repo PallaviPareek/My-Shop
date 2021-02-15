@@ -1,9 +1,27 @@
 # My-Shop
 
-Online shopping is the process of buying goods and services from merchants who sell on the Internet and people can purchase just about anything from companies that provide their products online.
-Online shopping is a form of electronic commerce which allows consumers to directly buy goods or services from a seller over the Internet using a web browser.
+## Description
+This project is an implementation of an on-line store in Mysql and PHP which is similar to the existing online shopping websites like Amazon and ebay.
+
+Each user can sign up either as a shopper or an admin. Then based on their roles they will have different access privileges. Shoppers are able to select multiple items and add them to their cart to buy them later or right away. After adding the items to the cart they will be able to see the total payment. They also will be able to delete items from their cart or edit their profiles like adding a new shipping address or deleting their existing address or editing their addresses.
+
+Shoppers are also able to rate or comment for each item and add their favorite products to the wishlist.
+
+Admin is able to either add a new item to the system, edit it or delete the items.
+
+This project uses a random generated database to fill in the tables. The tables are Users, Addresses, Suppliers, Reviews, Orders, Wishlist, Carts, OrderProducts, Ratings and Products.
 
 ## Features:
 * User side- Add products to cart, Place an order, Request their desired products
 * Admin side- Manage Inventory, Manage Users
-* Tech Stack: HTML, CSS, Bootstrap, JavaScript, PHP, SQL, Apache Server (WAMP)
+* Tech Stack: 
+
+- HTML
+- CSS
+- Bootstrap
+- JavaScript 
+- PHP 
+- SQL 
+- Apache Server (WAMP)
+
+
